@@ -289,6 +289,6 @@ This tool is designed for legitimate file protection purposes. Users are respons
 
 **⭐ Star this repository if you find it useful!**
 
-Made with ❤️ for secure file sharing
+Made by Cyber_Buddy ❤️ for secure file sharing
 
 </div>
