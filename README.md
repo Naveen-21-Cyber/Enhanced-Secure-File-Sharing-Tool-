@@ -7,6 +7,15 @@ A modern, feature-rich file encryption application built with Python and Tkinter
 ![Security](https://img.shields.io/badge/encryption-AES--256--GCM-red.svg)
 ![KDF](https://img.shields.io/badge/KDF-Scrypt%20%7C%20PBKDF2-orange.svg)
 
+## Screenshot 📸
+
+<img width="1920" height="1080" alt="fs1" src="https://github.com/user-attachments/assets/b94b0fd5-ab2f-45c7-b134-4df46abf933e" />
+<img width="1920" height="1080" alt="fs2" src="https://github.com/user-attachments/assets/1678294d-32c2-42e0-8b7a-29b2f464c5e6" />
+<img width="407" height="288" alt="fs4" src="https://github.com/user-attachments/assets/b8ce5ace-f96b-4831-af7f-41fc68f1c9af" />
+<img width="180" height="200" alt="fs5" src="https://github.com/user-attachments/assets/45fe1d63-0377-43ab-982b-1d8083560092" />
+<img width="1920" height="1080" alt="fs3" src="https://github.com/user-attachments/assets/90ea88dd-3f48-4101-b162-87d26424ad7e" />
+
+
 ## ✨ Features
 
 ### 🔐 Advanced Security
