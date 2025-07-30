@@ -219,7 +219,7 @@ We welcome contributions! Please follow these guidelines:
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/secure-file-sharing.git
+git clone https://github.com/Naveen-21-Cyber/secure-file-sharing.git
 cd secure-file-sharing
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
